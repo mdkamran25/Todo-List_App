@@ -1,0 +1,61 @@
+.todo_body{
+    background: palevioletred;
+    width: 100%;
+    height: 100vh;
+}
+.todo{
+    background-color: rgb(216, 213, 213);
+    
+    box-shadow: 5px 5px 25px -5px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+}
+.heading{
+    width: 100%;
+    background-color: #8566aa;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+h1{
+    color: whitesmoke;
+    background: transparent;
+    padding: 6px 0 2px 0;
+    margin-bottom: 10px;
+}
+.input{
+    background: transparent;
+    font-size: 20px;
+    width: 60%;
+    height: 30px;
+    border: none;
+    border-bottom: 2px solid #8566aa;
+    outline: none;
+}
+.button{
+    padding: 0px 10px;
+    border-radius: 10px;
+    border-color: transparent;
+    background-color: #8566aa;
+    font-size: 30px;
+    color: white;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+.button1{
+    padding: 1px 9px;
+    border-radius: 50%;
+    border-color: transparent;
+    background-color: #8566aa;
+    font-size: 20px;
+    color: white;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+.button:hover{
+    background-color: #903df5;
+}
+.button1:hover{
+    background-color: crimson;
+}
