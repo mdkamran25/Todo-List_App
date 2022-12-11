@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Todo-List_App/static/css/main.dd30f2ab.css",
-    "main.js": "/Todo-List_App/static/js/main.91840773.js",
+    "main.css": "/Todo-List_App/static/css/main.7dd33414.css",
+    "main.js": "/Todo-List_App/static/js/main.3506e92e.js",
+    "static/media/kamran1.jpeg": "/Todo-List_App/static/media/kamran1.3e16a89483cd30bd238e.jpeg",
     "index.html": "/Todo-List_App/index.html",
-    "main.dd30f2ab.css.map": "/Todo-List_App/static/css/main.dd30f2ab.css.map",
-    "main.91840773.js.map": "/Todo-List_App/static/js/main.91840773.js.map"
+    "main.7dd33414.css.map": "/Todo-List_App/static/css/main.7dd33414.css.map",
+    "main.3506e92e.js.map": "/Todo-List_App/static/js/main.3506e92e.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd30f2ab.css",
-    "static/js/main.91840773.js"
+    "static/css/main.7dd33414.css",
+    "static/js/main.3506e92e.js"
   ]
 }
